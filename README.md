@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GooglePlay][gp-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url]
 
 <!--
 **Tiarait/Tiarait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin-url]: https://linkedin.com/in/tiarait
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[version-shield]: https://img.shields.io/badge/Version-1.0.23-blue?style=for-the-badge
+[gp-shield]: https://img.shields.io/badge/-GooglePlay-black.svg?style=for-the-badge&logo=googlePlay&colorB=darkgreen
+[gp-url]: https://play.google.com/store/apps/dev?id=4630324141005225998
+[youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
+[youtube-url]: https://www.youtube.com/@tiardev
