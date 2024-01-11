@@ -1,4 +1,4 @@
-[![GooglePlay][gp-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url]
+[![GooglePlay][gp-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url]
 
 <!--
 **Tiarait/Tiarait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 [gp-url]: https://play.google.com/store/apps/dev?id=4630324141005225998
 [youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
 [youtube-url]: https://www.youtube.com/@tiardev
+
+[coffee-shield]: https://img.shields.io/badge/-Bye_me_a_coffee-red.svg?style=for-the-badge&logo=buymeacoffee&colorB=grey
+[coffee-url]: https://www.buymeacoffee.com/tiarapps
