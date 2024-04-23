@@ -1,5 +1,4 @@
-[![GooglePlay][gp-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url]
-
+[![GooglePlay][gp-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url] [![Stand With Ukraine][stand-with-ukraine]][stand-with-ukraine-url]
 <!--
 **Tiarait/Tiarait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +24,6 @@ Here are some ideas to get you started:
 
 [coffee-shield]: https://img.shields.io/badge/-Bye_me_a_coffee-red.svg?style=for-the-badge&logo=buymeacoffee&colorB=grey
 [coffee-url]: https://www.buymeacoffee.com/tiarapps
+
+[stand-with-ukraine]: https://img.shields.io/badge/Stand_With-Ukraine-yellow?style=for-the-badge&labelColor=blue
+[stand-with-ukraine-url]: https://vshymanskyy.github.io/StandWithUkraine
