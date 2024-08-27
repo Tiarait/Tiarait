@@ -17,7 +17,7 @@ My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always 
 ###  Connect with me 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/erfanrahmati/" target="_blank">
+<a href="https://www.linkedin.com/in/Tiarait/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://t.me/tiardev" target="_blank">
@@ -27,6 +27,14 @@ My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p> 
+
+### My Stats:
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiarait&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true" />
+
+</p>
+
 
 
 [linkedin-url]: https://linkedin.com/in/tiarait
