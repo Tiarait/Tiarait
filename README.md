@@ -4,7 +4,7 @@
 
 My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always eager to learn and work with various technologies and in different domains. I enjoy exploring new technologies and applying them to solve real-world problems. Currently, I focus on developing mobile applications and backend APIs.
 
-<img align="right" width="40%" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+<img align="right" width="40%" src="https://github.com/user-attachments/assets/53c59ccc-8b31-42df-8862-b82af96328be" alt="Coding">
 
 ### Talking about Personal Stuffs:
 
@@ -34,7 +34,6 @@ My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiarait&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true" />
 
 </p>
-
 
 
 [linkedin-url]: https://linkedin.com/in/tiarait
