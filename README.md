@@ -1,4 +1,4 @@
-[![GooglePlay][gp-shield]][gp-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url] [![Stand With Ukraine][stand-with-ukraine]][stand-with-ukraine-url]
+[![GooglePlay][gp-shield]][gp-url] [![Youtube][youtube-shield]][youtube-url] [![Stand With Ukraine][stand-with-ukraine]][stand-with-ukraine-url]
 
 ### Wellcome!
 
@@ -10,9 +10,9 @@ My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always 
 
 - I’m currently working with Android projects and node js.
 - I love exploring new tech stack and building cool stuffs.
-- Most of my projects are available on [Github](https://github.com/Tiarait).
+- Most of my projects are available on [Github](https://github.com/Tiarait?tab=repositories).
 - Ask me about anything [here](https://github.com/Tiarait/Tiarait/issues)! I am happy to help.
-- Checkout [resume](https://github.com/Tiarait/Tiarait/blob/main/resume.pdf).
+- Checkout [resume on site](https://tiarait.github.io/).
 
 ###  Connect with me 
 
