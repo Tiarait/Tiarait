@@ -28,12 +28,6 @@ My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always 
 </a>
 </p> 
 
-### My Stats:
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiarait&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true" />
-
-</p>
 
 
 [linkedin-url]: https://linkedin.com/in/tiarait
