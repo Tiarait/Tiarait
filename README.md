@@ -2,17 +2,17 @@
 
 ### Wellcome!
 
-My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always eager to learn and work with various technologies and in different domains. I enjoy exploring new technologies and applying them to solve real-world problems. Currently, I focus on developing mobile applications and backend APIs.
+My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always eager to learn and work with various technologies and in different domains. I enjoy exploring new technologies and applying them to solve real-world problems. Currently.
 
 <img align="right" width="40%" src="https://github.com/user-attachments/assets/53c59ccc-8b31-42df-8862-b82af96328be" alt="Coding">
 
 ### Talking about Personal Stuffs:
 
-- I’m currently working with Android projects and node js.
+- I’m currently working with Android and Python projects.
 - I love exploring new tech stack and building cool stuffs.
-- Most of my projects are available on [Github](https://github.com/Tiarait?tab=repositories).
+- Most of my open projects are available on [Github](https://github.com/Tiarait?tab=repositories).
 - Ask me about anything [here](https://github.com/Tiarait/Tiarait/issues)! I am happy to help.
-- Checkout [resume on site](https://tiarait.github.io/).
+- Write to me by email or on social media and I will answer you..
 
 ###  Connect with me 
 
