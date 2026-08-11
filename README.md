@@ -2,36 +2,31 @@
 
 ### Wellcome!
 
-My name is Vasyl Rayskyi, and I'm a software developer from Ukraine. I'm always eager to learn and work with various technologies and in different domains. I enjoy exploring new technologies and applying them to solve real-world problems. Currently.
+I’m Vasyl Rayskyi, a software developer from Ukraine.
+
+I work mostly with Android, Kotlin, Java, and Python. I like learning new technologies, but I’m more interested in what they can actually be used for than in collecting another item for the tech-stack list.
+
+
 
 <img align="right" width="40%" src="https://github.com/user-attachments/assets/53c59ccc-8b31-42df-8862-b82af96328be" alt="Coding">
 
-### Talking about Personal Stuffs:
 
-- I’m currently working with Android and Python projects.
-- I love exploring new tech stack and building cool stuffs.
-- Most of my open projects are available on [Github](https://github.com/Tiarait?tab=repositories).
-- Ask me about anything [here](https://github.com/Tiarait/Tiarait/issues)! I am happy to help.
-- Write to me by email or on social media and I will answer you..
+These days, I’m building Android applications, Python tools, and Telegram bots. I enjoy taking an idea, figuring out how to make it work, and dealing with all the fun problems that appear along the way.
+
+You can find my open-source projects on [GitHub](https://github.com/Tiarait?tab=repositories). If you have a question about one of them, want to discuss an idea, or found something that could be improved, feel free to [open an issue](https://github.com/Tiarait/Tiarait/issues) or contact me directly.
 
 ###  Connect with me 
-
-<p align="left">
-<a href="https://www.linkedin.com/in/Tiarait/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/tiardev" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:tiar.develop@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p> 
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Email][mail-shield]][mail-url] [![Telegram][tg-shield]][tg-url]
 
 
+
+[mail-url]: mailto:tiar.develop@gmail.com
+[mail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&colorB=555
+[tg-url]: https://t.me/tiardev
+[tg-shield]: https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white
 
 [linkedin-url]: https://linkedin.com/in/tiarait
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [version-shield]: https://img.shields.io/badge/Version-1.0.23-blue?style=for-the-badge
 [gp-shield]: https://img.shields.io/badge/-GooglePlay-black.svg?style=for-the-badge&logo=googlePlay&colorB=darkgreen
 [gp-url]: https://play.google.com/store/apps/dev?id=4630324141005225998
